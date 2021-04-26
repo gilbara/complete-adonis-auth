@@ -11,7 +11,7 @@ This is the fullstack boilerplate for AdonisJs, it comes pre-configured with
 7. Lucid ORM ww
 8. Migrations and seeds
    
-## Setup.   
+## Setup.   tyrddg
 
 Use the adonis command to install the blueprint
 
